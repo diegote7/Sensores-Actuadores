@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Usuario/Desktop/Sensores y Actuadores/Grupo-N-1/TP Nº8/C - Prototipos/1.A Diego Ares_sensorYL69_resistivo/sensor",
+      "program": "c:/Users/Usuario/Desktop/Sensores y Actuadores/Grupo-N-1/TP Nº8/C - Prototipos/1.A Diego Ares_sensorYL69_resistivo/sensor/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
